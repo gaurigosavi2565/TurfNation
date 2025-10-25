@@ -112,9 +112,3 @@ A modern, responsive web application for discovering and booking premium sports 
 5. Submit a pull request
 
 ## License
-
-MIT License - see LICENSE file for details
-
----
-
-Built with ❤️ by [Meku.dev](https://meku.dev)
